@@ -296,7 +296,7 @@
         <maven.compiler.target>1.7</maven.compiler.target>
 
         <!-- json -->
-        <fastjson.version>1.2.8</fastjson.version>
+        <fastjson.version>1.2.25.sec10</fastjson.version>
 
         <!-- JavaCV-->
         <javacpp.version>0.10</javacpp.version>
