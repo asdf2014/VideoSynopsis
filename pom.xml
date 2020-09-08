@@ -326,7 +326,7 @@
         <jackson.core.version>2.11.2</jackson.core.version>
 
         <!-- spring -->
-        <spring.version>4.2.5.RELEASE</spring.version>
+        <spring.version>5.2.8.RELEASE</spring.version>
         <javax.servlet.api.version>4.0.0-b01</javax.servlet.api.version>
 
         <!-- mybatis -->
